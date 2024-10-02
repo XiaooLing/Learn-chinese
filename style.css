@@ -13,3 +13,9 @@
   display: flex;
   justify-content: center;
 }
+
+#conta {
+  display: flex;
+  justify-content: center;
+  margin-top: 69vh;
+}
