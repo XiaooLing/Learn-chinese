@@ -1,7 +1,7 @@
 let words = {
     "你好 (nǐ hǎo)": "Hello",
     "再见 (zàijiàn)": "Bye",
-    "谢谢(xièxiè)": "Thank you",
+    "谢谢 (xièxiè)": "Thank you",
     "对不起 (duìbuqǐ)": "sorry",
   };
   let words2 = [
