@@ -1,0 +1,15 @@
+#text, #word {
+  text-align: center;
+  margin: 22px;
+  font-weight: 699;
+}
+
+#text {
+  font-weight: 1000;
+  font-size: 33px;
+}
+
+#cont {
+  display: flex;
+  justify-content: center;
+}
